@@ -7,15 +7,15 @@
 
 ## Agenda Items
 
-1.
-2.
-3.
+1. 
+2. 
+3. 
 
 ## Future Agenda Items
 
-1.
-2.
-3.
+-
+-
+-
 
 ## Meeting Notes
 
