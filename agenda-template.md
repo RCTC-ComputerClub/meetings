@@ -1,8 +1,8 @@
 
 
-## Agenda for the January 15 meeting of the Computer Club
+## Agenda for the {month} {day} meeting of the Computer Club
 - **Where**: Computer Club Room
-- **When**: 2026-01-15 at 10:00 AM
+- **When**: {date} at {time}
 - **Location**: Link to calendar
 
 ## Agenda Items
@@ -26,4 +26,3 @@ To be filled in during meeting.
 ### Proposals and discussions
 
 ### Closure
-
